@@ -11737,7 +11737,7 @@
       "schema_version": 2,
       "id": "zh-04-0622",
       "locale": "zh-Hans-CN",
-      "sentence": "三次检测均未发现细菌，这些结果支撑了水中无细菌的判断。",
+      "sentence": "签到记录支撑了小李参加过上周活动的判断。",
       "cloze": "支撑",
       "answer": "支撑",
       "accepted_answers": [],
@@ -11747,7 +11747,7 @@
     },
     "language_specific": {
       "target_pinyin": "zhīchēng",
-      "usage_note": "支撑 presents the test results as supporting the judgment that there are no bacteria in the water; it does not claim conclusive proof."
+      "usage_note": "支撑 presents the attendance record as grounds for the limited judgment, without claiming conclusive proof."
     }
   },
   {
